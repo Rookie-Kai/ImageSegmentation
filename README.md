@@ -85,14 +85,14 @@
 
    结果如下：
 
-   >  Done image [50 / 200], fps: 72.77 img / s 
-   >  Done image [100/ 200], fps: 73.04 img / s 
-   >  Done image [150/ 200], fps: 73.21 img / s 
-   >  Done image [200/ 200], fps: 73.27 img / s 
-   >  Overall fps: 73.27 img / s
+   >  Done image [50 / 200], fps: 72.77 img / s  
+   >  Done image [100/ 200], fps: 73.04 img / s  
+   >  Done image [150/ 200], fps: 73.21 img / s  
+   >  Done image [200/ 200], fps: 73.27 img / s  
+   >  Overall fps: 73.27 img / s  
    >
-   >  Average fps of 1 evaluations: 73.27
-   >  The variance of 1 evaluations: 0.0
+   >  Average fps of 1 evaluations: 73.27  
+   >  The variance of 1 evaluations: 0.0  
 
 
 
