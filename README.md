@@ -115,6 +115,3 @@
 
    test_log文件见<code>log/slurm-516071.out</code>和<code>log/20230213_223813/</code>
 
-
-
->>>>>>> 49983b9 (Voc_data)
